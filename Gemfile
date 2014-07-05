@@ -1,4 +1,5 @@
 source "https://rubygems.org"
 
-gem "rake"
+gem "guard-minitest"
 gem "minitest"
+gem "rake"
